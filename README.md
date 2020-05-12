@@ -1,3 +1,6 @@
+# Screenshot to working site 
+![Screenshot](screenshots/working_screenshot.png "This is my screenshot")
+
 # Repository Description
 These are a series of projects to help you learng SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
 with partial html files.  When you complete this project, you will be able to build your portfolios website.
@@ -37,5 +40,3 @@ with partial html files.  When you complete this project, you will be able to bu
 * [SCSS Homepage](https://sass-lang.com/guide)
 * [Markdown Cheat Sheet Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# Screenshot to working site 
-![Screenshot](screenshots/working_screenshot.png "This is my screenshot")
